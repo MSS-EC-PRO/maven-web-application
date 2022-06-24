@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Nagarjuna Releases Nexus Repository</name>
-	      <url>http://18.222.220.239:8081/repository/Nagarjuna_Release/</url>
+	      <name>myntra-release</name>
+	      <url>http://13.233.148.9:8081/repository/myntra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Nagarjuna Snapshot Nexus Repository </name>
-	      <url>http://18.222.220.239:8081/repository/Nagarjuna_Snapshot/</url>
+	      <name>myntra-snapshot</name>
+	      <url>http://13.233.148.9:8081/repository/myntra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
